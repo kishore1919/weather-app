@@ -25,3 +25,6 @@ The project uses a number of open source projects to work properly:
 ## Installation
  > Due to deployment project can't be installed on a local sever
 
+## Preview
+![image](https://user-images.githubusercontent.com/40794060/127836596-5fb31309-a27c-4335-8c02-47f9c91c3772.png)
+![image](https://user-images.githubusercontent.com/40794060/127836677-7f865016-e9d5-46c1-a82c-4b4b0ba47210.png)
